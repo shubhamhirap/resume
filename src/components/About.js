@@ -20,8 +20,8 @@ const About = () => {
           <p className="lead mb-5">
             Self motivated and Self-learner, Ability to maintain and develop
             user interfaces. I am Looking for entry level position as a Software
-            Developer where I can hone my technical skill develop. proficiency
-            in React.js, JavaScript,JQuery, Bootstrap5, CSS3, HTML5.
+            Developer where I can hone my technical skills. Proficiency
+            in React.js, JavaScript, JQuery, Bootstrap5, CSS3, HTML5.
           </p>
           <div className="social-icons">
             <a

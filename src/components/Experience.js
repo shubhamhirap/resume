@@ -14,7 +14,22 @@ const Experience = () => {
               <div className="subheading mb-3">
                 White Code technology solutions pvt. ltd.
               </div>
-              <p>PHP Developer</p>
+              <ul>
+                <li>
+                  Successfully generated dynamic sites utilizing LAMP stack;
+                  Linux, Apache, PHP, CSS, Javascript/JQuery and MySql.
+                </li>
+                <li>
+                  Created websites with Codeigniter PHP framework. Which mainly
+                  worked on MVC design pattern. Designed API Built in PHP,
+                  creating new users and worked on admin side related stuff.
+                </li>
+                <li>
+                  Fixed bugs from existing websites and implemented enhancements
+                  that significantly improved web functionality.
+                </li>
+              </ul>
+              {/* <p>PHP Developer</p> */}
             </div>
             <div className="flex-shrink-0">
               <span className="timeline">Jul 2019 - Jan 2020</span>
