@@ -15,12 +15,16 @@ const Experience = () => {
                 White Code technology solutions pvt. ltd.
               </div>
               <ul>
+                <li>Worked as a part of team as well as autonomously</li>
+                <li>
+                  Design component based user interfaces using React.js, CSS, HTML.
+                </li>
                 <li>
                   Successfully generated dynamic sites utilizing LAMP stack;
                   Linux, Apache, PHP, CSS, Javascript/JQuery and MySql.
                 </li>
                 <li>
-                  Created websites with Codeigniter PHP framework. Which mainly
+                  Created dynamic websites with Codeigniter PHP framework. Which mainly
                   worked on MVC design pattern. Designed API Built in PHP,
                   creating new users and worked on admin side related stuff.
                 </li>

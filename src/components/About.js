@@ -14,14 +14,14 @@ const About = () => {
             <span className="text-primary"> Hirap</span>
           </h1>
           <div className="subheading mb-5">
-            Ratan nagar, Malegaon road · Nanded, MH 431605 · 8999029686 ·
+            Ratan nagar, Near Jain mandir, Malegaon road · Nanded, MH 431605 · 8999029686 ·
             <a href="mailto:shirap07@gmail.com">shirap07@gmail.com</a>
           </div>
           <p className="lead mb-5">
             Self motivated and Self-learner, Ability to maintain and develop
             user interfaces. I am Looking for entry level position as a Software
             Developer where I can hone my technical skills. Proficiency
-            in React.js, JavaScript, JQuery, Bootstrap5, CSS3, HTML5.
+            in React.js, JavaScript, JQuery, PHP, MySQL, CSS3, HTML5.
           </p>
           <div className="social-icons">
             <a
