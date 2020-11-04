@@ -81,6 +81,19 @@ const Navbar = () => {
               </a>
             </li>
             <li className="nav-item">
+              <a className="nav-link" href="projects">
+                <Link
+                  activeClass="active"
+                  to="projects"
+                  spy={true}
+                  smooth={true}
+                  duration={800}
+                >
+                  Projects
+                </Link>
+              </a>
+            </li>
+            <li className="nav-item">
               <a className="nav-link" href="#interests">
                 <Link
                   activeClass="active"

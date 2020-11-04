@@ -4,7 +4,6 @@ import "../App.css";
 const Experience = () => {
   return (
     <div>
-      {/* <!-- Experience--> */}
       <section className="resume-section" id="experience" name="experience">
         <div className="resume-section-content">
           <h2 className="mb-5">Experience</h2>
@@ -33,7 +32,6 @@ const Experience = () => {
                   that significantly improved web functionality.
                 </li>
               </ul>
-              {/* <p>PHP Developer</p> */}
             </div>
             <div className="flex-shrink-0">
               <span className="timeline">Jul 2019 - Jan 2020</span>
