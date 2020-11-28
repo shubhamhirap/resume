@@ -11,14 +11,14 @@ const Projects = () => {
             <div className="flex-grow-1">
               <h3 className="mb-0">My Portfolio</h3>
               <ul className="mt-2">
-                <li>My personal resume with react.js</li>
+                <li>Portfolio Website with React Js. </li>
                 <li>
                   Component based project design using React.js, CSS, bootstrap.
                 </li>
                 <li>
                   <a
                     rel="noopener noreferrer"
-                    href="https://resume-shubham-hirap.netlify.app/"
+                    href="https://shubhamhirap.netlify.app/"
                     target="_blank"
                   >
                     <strong>See Full Project</strong>
