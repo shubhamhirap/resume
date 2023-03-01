@@ -1,17 +1,17 @@
 import React from "react";
 import "../App.css";
 import {
-  FaHtml5,
-  FaCss3Alt,
-  FaBootstrap,
-  FaJsSquare,
-  FaReact,
-  FaPhp,
-  FaPython,
-  FaGithub,
-  FaNpm,
-  FaDatabase,
-} from "react-icons/fa";
+  SiBootstrap,
+  SiCss3,
+  SiGit,
+  SiHtml5,
+  SiJavascript,
+  SiNpm,
+  SiReact,
+  SiTypescript,
+  SiVisualstudiocode,
+  SiYarn,
+} from "react-icons/si";
 
 const Skills = () => {
   return (
@@ -23,34 +23,34 @@ const Skills = () => {
           <div class="subheading mb-3">Programming Languages & Tools</div>
           <ul class="list-inline dev-icons">
             <li class="list-inline-item">
-              <FaHtml5 />
+              <SiReact />
+            </li>
+            <li className="list-inline-item">
+              <SiJavascript />
             </li>
             <li class="list-inline-item">
-              <FaCss3Alt />
+              <SiTypescript />
             </li>
             <li class="list-inline-item">
-              <FaBootstrap />
+              <SiGit />
             </li>
             <li class="list-inline-item">
-              <FaJsSquare />
+              <SiNpm />
             </li>
             <li class="list-inline-item">
-              <FaReact />
+              <SiYarn />
             </li>
             <li class="list-inline-item">
-              <FaPhp />
+              <SiHtml5 />
             </li>
             <li class="list-inline-item">
-              <FaPython />
+              <SiCss3 />
             </li>
             <li class="list-inline-item">
-              <FaDatabase />
+              <SiBootstrap />
             </li>
             <li class="list-inline-item">
-              <FaGithub />
-            </li>
-            <li class="list-inline-item">
-              <FaNpm />
+              <SiVisualstudiocode />
             </li>
           </ul>
         </div>
