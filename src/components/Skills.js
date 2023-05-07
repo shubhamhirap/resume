@@ -6,6 +6,7 @@ import {
   SiGit,
   SiHtml5,
   SiJavascript,
+  SiNodeDotJs,
   SiNpm,
   SiReact,
   SiTypescript,
@@ -27,6 +28,9 @@ const Skills = () => {
             </li>
             <li className="list-inline-item">
               <SiJavascript />
+            </li>
+            <li className="list-inline-item">
+              <SiNodeDotJs />
             </li>
             <li class="list-inline-item">
               <SiTypescript />

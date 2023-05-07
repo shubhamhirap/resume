@@ -97,7 +97,6 @@ const Navbar = () => {
               <a className="nav-link" href="#interests">
                 <Link
                   activeClass="active"
-                  className="nav-link"
                   to="interests"
                   spy={true}
                   smooth={true}

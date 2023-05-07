@@ -9,9 +9,30 @@ const Projects = () => {
           <h2 className="mb-5">Projects</h2>
           <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="flex-grow-1">
-              <h3 className="mb-0">My Portfolio</h3>
+              <h3 className="mb-0">Extreme E-Commerce</h3>
               <ul className="mt-2">
-                <li>Portfolio Website with React Js. </li>
+                <li>
+                  Collaborated with including UX designers, and project managers
+                  to understand and analyses wireframe designs.
+                </li>
+                <li>
+                  Worked on different modules like - user management, store
+                  management, store management, project management, etc.
+                </li>
+                <li>
+                  Developed Single Page Application(SPA) using React.js and css
+                  preprocessors by building reusable components using functional
+                  components.
+                </li>
+                <li>Maintaining code repo using version control tool Git.</li>
+              </ul>
+            </div>
+          </div>
+          <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
+            <div className="flex-grow-1">
+              <h3 className="mb-0">Portfolio Project</h3>
+              <ul className="mt-2">
+                <li>Responsive Portfolio Website with React Js.</li>
                 <li>
                   Component based project design using React.js, CSS, bootstrap.
                 </li>
@@ -68,28 +89,6 @@ const Projects = () => {
                   <a
                     rel="noopener noreferrer"
                     href="https://pet-clinic-appointment.netlify.app/"
-                    target="_blank"
-                  >
-                    <strong>See Full Project</strong>
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </div>
-          <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
-            <div className="flex-grow-1">
-              <h3 className="mb-0">Tic-Tac-Toe Game</h3>
-              <ul className="mt-2">
-                <li>Tic-Tac-Toe game project using react.</li>
-                <li>
-                  three screen first one for welcome and choose for play mode.
-                  second screen to pick a side. last screen too play game.
-                </li>
-                <li>React-router is used for routing in this project.</li>
-                <li>
-                  <a
-                    rel="noopener noreferrer"
-                    href="http://react-game-tic-tac-toe.herokuapp.com/"
                     target="_blank"
                   >
                     <strong>See Full Project</strong>

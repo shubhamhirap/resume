@@ -18,15 +18,9 @@ const About = () => {
             <a href="mailto:shubhamhirap@gmail.com">shubhamhirap@gmail.com</a>
           </div>
           <p className="lead mb-5">
-            {/* Self motivated and Self-learner, Ability to maintain and develop
-            user interfaces. I am Looking for entry level position as a Software
-            Developer where I can hone my technical skills. Proficiency
-            in React.js, JavaScript, JQuery, PHP, MySQL, CSS3, HTML5. */}
-
             Experienced Front-End React.Js developer, Self motivated and Self-learner, ability to maintain and develop responsive user interface.
             Ability to build Single Page Applications(SPAs) with React.JS. Always looking forward to learn new skills. Proficiency in 
-            React.js, Redux, JavaScript, Git, HTML, CSS. Good understanding of Typescript.
-
+            React.js, Redux, JavaScript, Git, Agile methodology, HTML, CSS. Good understanding of Typescript and Node.JS and REST API.
           </p>
           <div className="social-icons">
             <a
